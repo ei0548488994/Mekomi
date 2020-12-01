@@ -1,0 +1,34 @@
+body {
+  background-color: #f7f7f7;
+}
+body h2 {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 38px;
+}
+body h3 {
+  line-height: 32px;
+  font-size: 22px;
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: none;
+}
+body h5 {
+  font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.1;
+  font-weight: 600;
+  margin: 20px 0 20px 0;
+}
+body .dashboard-content {
+  padding: 30px;
+  width: calc(100% - 260px);
+}
+body .breadcrumbs {
+  width: 300px;
+}
+body .breadcrumbs ul {
+  list-style-type: none;
+}
+body .breadcrumbs ul a {
+  color: #888;
+}
